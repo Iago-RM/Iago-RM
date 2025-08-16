@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Price comparator](https://github.com/Iago-RM/Consultor-preco)
 
-- 🌱 I’m currently learning <img src="https://skillicons.dev/icons?i=java />"
+- 🌱 I’m currently learning [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 - 📫 How to reach me **iagorozalez@gmail.com**
 
