@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Iago</h1>
 <h3 align="center">Software Developer</h3>
 
+![Iago-RM's Stats](https://github-readme-stats.vercel.app/api?username=Iago-RM&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
+![Iago-RM's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Iago-RM&theme=graywhite&hide_border=true)
+![Iago-RM's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iago-RM&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
+
 - 🔭 I’m currently working on [Price comparator](https://github.com/Iago-RM/Consultor-preco)
 
 - 🌱 I’m currently learning [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
